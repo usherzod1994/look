@@ -1,0 +1,65 @@
+[
+    {
+        "user_id": 1,
+        "username": "A",
+        "password": "1231",
+        "contact": "998995656545",
+        "is_admin": true
+    },
+    {
+        "user_id": 2,
+        "username": "admin",
+        "password": "root123",
+        "contact": "998993631856",
+        "is_admin": true
+    },
+    {
+        "user_id": 3,
+        "username": "admin",
+        "password": "root123",
+        "contact": "998993631856",
+        "is_admin": true
+    },
+    {
+        "user_id": 4,
+        "username": "admin",
+        "password": "root123",
+        "contact": "998993631856",
+        "is_admin": true
+    },
+    {
+        "user_id": 5,
+        "username": "admin",
+        "password": "root123",
+        "contact": "998993631856",
+        "is_admin": true
+    },
+    {
+        "user_id": 6,
+        "username": "admin",
+        "password": "root123",
+        "contact": "998993631856",
+        "is_admin": true
+    },
+    {
+        "user_id": 7,
+        "username": "admin",
+        "password": "root123",
+        "contact": "998993631856",
+        "is_admin": true
+    },
+    {
+        "user_id": 8,
+        "username": "admin",
+        "password": "root123",
+        "contact": "998993631856",
+        "is_admin": true
+    },
+    {
+        "user_id": 9,
+        "username": "admin",
+        "password": "root123",
+        "contact": "998993631856",
+        "is_admin": true
+    }
+]
